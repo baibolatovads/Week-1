@@ -1,0 +1,7 @@
+C:\Users\User_PC\Documents\PP2\Student\LAB 1\Lab1_1 - Prime numbers\Lab1_1 - Prime numbers\bin\Debug\Lab1_1 - Prime numbers.exe.config
+C:\Users\User_PC\Documents\PP2\Student\LAB 1\Lab1_1 - Prime numbers\Lab1_1 - Prime numbers\bin\Debug\Lab1_1 - Prime numbers.exe
+C:\Users\User_PC\Documents\PP2\Student\LAB 1\Lab1_1 - Prime numbers\Lab1_1 - Prime numbers\bin\Debug\Lab1_1 - Prime numbers.pdb
+C:\Users\User_PC\Documents\PP2\Student\LAB 1\Lab1_1 - Prime numbers\Lab1_1 - Prime numbers\obj\Debug\Lab1_1 - Prime numbers.csprojResolveAssemblyReference.cache
+C:\Users\User_PC\Documents\PP2\Student\LAB 1\Lab1_1 - Prime numbers\Lab1_1 - Prime numbers\obj\Debug\Lab1_1 - Prime numbers.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Student\LAB 1\Lab1_1 - Prime numbers\Lab1_1 - Prime numbers\obj\Debug\Lab1_1 - Prime numbers.exe
+C:\Users\User_PC\Documents\PP2\Student\LAB 1\Lab1_1 - Prime numbers\Lab1_1 - Prime numbers\obj\Debug\Lab1_1 - Prime numbers.pdb

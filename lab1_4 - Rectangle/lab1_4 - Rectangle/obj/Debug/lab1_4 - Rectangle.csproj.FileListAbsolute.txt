@@ -1,0 +1,6 @@
+C:\Users\User_PC\Documents\PP2\Student\LAB 1\lab1_4 - Rectangle\lab1_4 - Rectangle\bin\Debug\lab1_4 - Rectangle.exe.config
+C:\Users\User_PC\Documents\PP2\Student\LAB 1\lab1_4 - Rectangle\lab1_4 - Rectangle\bin\Debug\lab1_4 - Rectangle.exe
+C:\Users\User_PC\Documents\PP2\Student\LAB 1\lab1_4 - Rectangle\lab1_4 - Rectangle\bin\Debug\lab1_4 - Rectangle.pdb
+C:\Users\User_PC\Documents\PP2\Student\LAB 1\lab1_4 - Rectangle\lab1_4 - Rectangle\obj\Debug\lab1_4 - Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Student\LAB 1\lab1_4 - Rectangle\lab1_4 - Rectangle\obj\Debug\lab1_4 - Rectangle.exe
+C:\Users\User_PC\Documents\PP2\Student\LAB 1\lab1_4 - Rectangle\lab1_4 - Rectangle\obj\Debug\lab1_4 - Rectangle.pdb

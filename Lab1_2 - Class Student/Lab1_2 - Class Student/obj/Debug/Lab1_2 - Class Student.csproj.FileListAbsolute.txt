@@ -1,0 +1,6 @@
+C:\Users\User_PC\Documents\PP2\Student\LAB 1\Lab1_2 - Class Student\Lab1_2 - Class Student\bin\Debug\Lab1_2 - Class Student.exe.config
+C:\Users\User_PC\Documents\PP2\Student\LAB 1\Lab1_2 - Class Student\Lab1_2 - Class Student\bin\Debug\Lab1_2 - Class Student.exe
+C:\Users\User_PC\Documents\PP2\Student\LAB 1\Lab1_2 - Class Student\Lab1_2 - Class Student\bin\Debug\Lab1_2 - Class Student.pdb
+C:\Users\User_PC\Documents\PP2\Student\LAB 1\Lab1_2 - Class Student\Lab1_2 - Class Student\obj\Debug\Lab1_2 - Class Student.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Student\LAB 1\Lab1_2 - Class Student\Lab1_2 - Class Student\obj\Debug\Lab1_2 - Class Student.exe
+C:\Users\User_PC\Documents\PP2\Student\LAB 1\Lab1_2 - Class Student\Lab1_2 - Class Student\obj\Debug\Lab1_2 - Class Student.pdb

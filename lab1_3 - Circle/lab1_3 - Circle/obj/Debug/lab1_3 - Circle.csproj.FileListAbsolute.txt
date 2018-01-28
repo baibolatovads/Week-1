@@ -1,0 +1,6 @@
+C:\Users\User_PC\Documents\PP2\Student\LAB 1\lab1_3 - Circle\lab1_3 - Circle\bin\Debug\lab1_3 - Circle.exe.config
+C:\Users\User_PC\Documents\PP2\Student\LAB 1\lab1_3 - Circle\lab1_3 - Circle\bin\Debug\lab1_3 - Circle.exe
+C:\Users\User_PC\Documents\PP2\Student\LAB 1\lab1_3 - Circle\lab1_3 - Circle\bin\Debug\lab1_3 - Circle.pdb
+C:\Users\User_PC\Documents\PP2\Student\LAB 1\lab1_3 - Circle\lab1_3 - Circle\obj\Debug\lab1_3 - Circle.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Student\LAB 1\lab1_3 - Circle\lab1_3 - Circle\obj\Debug\lab1_3 - Circle.exe
+C:\Users\User_PC\Documents\PP2\Student\LAB 1\lab1_3 - Circle\lab1_3 - Circle\obj\Debug\lab1_3 - Circle.pdb
